@@ -5,7 +5,7 @@ Topics:
   4. Multithreading
   5. Servlets
   6. Spring Framework
-  7. Webservices
+  7. Webservices (Restful Webservices)
   8. JavaFX
   9. Java 1.8
   10. Java 1.9
